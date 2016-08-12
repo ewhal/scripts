@@ -1,4 +1,4 @@
-# scripts
+# Scripts
 Collection of random useful scripts.
 
 ## backup.sh
